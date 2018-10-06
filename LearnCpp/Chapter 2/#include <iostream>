@@ -1,0 +1,8 @@
+#include <iostream>
+#include <cstdint>
+// Chp 4a
+// Fixed width integers
+
+intmain () {
+	return 0;
+}
